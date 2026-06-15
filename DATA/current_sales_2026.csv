@@ -1,0 +1,6 @@
+﻿"transaction_id,order_date,customer_id,product_category,product_name,quantity,unit_price,region,payment_status"
+"T1011,2026-01-20,C401,Computing,Laptop Pro,1,1200.00,North,Paid"
+"T1012,2026-02-15,C405,Electronics,Noise Cancelling Headphones,3,200.00,West,Paid"
+"T1013,2026-03-02,C403,Accessories,Mechanical Keyboard,4,80.00,South,Paid"
+"T1014,2026-04-18,C406,Electronics,Smart Watch,2,150.00,North,Paid"
+"T1015,2026-05-30,C404,Computing,Gaming Monitor,2,350.00,East,Paid"
